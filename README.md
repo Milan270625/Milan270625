@@ -1,6 +1,6 @@
 <img src="banner-2025-2.png" alt="Profile Banner" />
 
-<h2 align="center">Milan</h2>
+<h2 align="center">Muhammad Milan Mikola</h2>
 <p align="center">
 Computer Science Graduate (2024) · AI Development · Technical Mentor
 </p>
@@ -47,17 +47,11 @@ Computer Science Graduate (2024) · AI Development · Technical Mentor
 ### Connect
 
 <p align="center">
-  <a href="https://github.com/Milan270625">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/arifian-saputra-08135a178">LinkedIn</a> ·
-  <a href="https://www.stackoverflow.com/users/13294082/arifian-saputra">StackOverflow</a> ·
-  <a href="https://discord.com/users/AutumnNymph#9288">Discord</a>
+  <a href="https://www.github.com/arifian853">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/muhammad-milan-mikola-4894883b9/">LinkedIn</a> ·
+  <a href="https://discordapp.com/users/567302328206491659">Discord</a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark&hide_border=true" width="48%"/>
-</p>
 
 ---
 
