@@ -2,46 +2,31 @@
 
 <h2 align="center">Muhammad Milan Mikola</h2>
 <p align="center">
-Computer Science Graduate (2024) · AI Development · Technical Mentor
+Computer, Network and Telecommunications Engineering graduate (2026) · Mobile Development · Passionate learner
 </p>
 
 ---
 
 ### About
 
-- 🎓 Computer Science Graduate from Universitas Maritim Raja Ali Haji, Tanjungpinang, Riau Islands.
-- 🤖 Currently serving as **Head of AI Development Program** @ **[Infinite Learning](https://infinitelearning.id)** as a Technical Mentor.
-- 💻 Interested in Full Stack Web Development and AI Systems.
+- 🎓 Computer, Network and Telecommunications Engineering graduate from SMK Negeri 3 Batam, Batam City, Riau Islands.
+- 🇪🇳 Learned English as a second language through YouTube and has taken a test at International Test Center for Toeic resulting in a total score of 985/990
+- 📱 Interested in Mobile Development and Full Stack Web Development.
 
 ---
 
 ### Core Stack
 
+**Mobile Development**
+- Flutter
+- Dart
+- RiverPod
+- VS Code
+
 **Web Development**
 - React
 - NodeJS
 - Flask
-
-**AI Development**
-- Python
-- TensorFlow
-- Keras
-- Scikit-Learn
-- PyTorch
-
----
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
-</p>
-
 ---
 
 ### Connect
