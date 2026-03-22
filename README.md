@@ -47,7 +47,7 @@ Computer Science Graduate (2024) · AI Development · Technical Mentor
 ### Connect
 
 <p align="center">
-  <a href="https://www.github.com/arifian853">GitHub</a> ·
+  <a href="https://github.com/Milan270625">GitHub</a> ·
   <a href="https://www.linkedin.com/in/arifian-saputra-08135a178">LinkedIn</a> ·
   <a href="https://www.stackoverflow.com/users/13294082/arifian-saputra">StackOverflow</a> ·
   <a href="https://discord.com/users/AutumnNymph#9288">Discord</a>
