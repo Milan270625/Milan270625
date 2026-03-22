@@ -1,6 +1,6 @@
 <img src="banner-2025-2.png" alt="Profile Banner" />
 
-<h2 align="center">Arifian</h2>
+<h2 align="center">Milan</h2>
 <p align="center">
 Computer Science Graduate (2024) · AI Development · Technical Mentor
 </p>
