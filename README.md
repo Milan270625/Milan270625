@@ -21,9 +21,9 @@ Computer, Network and Telecommunications Engineering graduate (2026) · Mobile D
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lingerintherain)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muhammadmilan73@gmail.com)
-&bnsp;
+&nbsp;
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31iisi3g4tfdrtjafrv3zpm276qy)
-&bnsp;
+&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/4C5UPCGQNLFXE1)
 
 ---
