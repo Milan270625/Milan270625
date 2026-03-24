@@ -1,4 +1,4 @@
-<img src="banner-2026-1-bigred.png" alt="Profile Banner" />
+<img src="banner-2026-1-bigblack.png" alt="Profile Banner" />
 
 <h2 align="center">Muhammad Milan Mikola</h2>
 <p align="center">
